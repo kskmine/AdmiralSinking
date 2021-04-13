@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  AdmiralSinking.cpp
+C:\Users\emine\OneDrive\Masaüstü\Projelerim\AdmiralSinking150101062\AdmiralSinking\AdmiralSinking\AdmiralSinking.cpp(34,16): warning C4552: '-': ifade sonucu kullanılmıyor
+C:\Users\emine\OneDrive\Masaüstü\Projelerim\AdmiralSinking150101062\AdmiralSinking\AdmiralSinking\AdmiralSinking.cpp(282,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\emine\OneDrive\Masaüstü\Projelerim\AdmiralSinking150101062\AdmiralSinking\AdmiralSinking\AdmiralSinking.cpp(64): warning C4715: 'numberOfShips': tüm denetim yolları değer döndürmez
+  AdmiralSinking.vcxproj -> C:\Users\emine\OneDrive\Masaüstü\Projelerim\AdmiralSinking150101062\AdmiralSinking\Debug\AdmiralSinking.exe
